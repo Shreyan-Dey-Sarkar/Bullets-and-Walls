@@ -1,2 +1,1 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# output link: https://shreyan-dey-sarkar.github.io/bullets-and-walls/
